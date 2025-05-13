@@ -5,8 +5,6 @@ import 'package:flutter/material.dart';
 import 'dart:io';
 
 import 'package:video_thumbnail/video_thumbnail.dart';
-import 'package:image_picker/image_picker.dart';
-import 'package:path_provider/path_provider.dart';
 
 void main() => runApp(MyApp());
 
